@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "841770358596",
+    "project_id": "fir-auth-internship",
+    "storage_bucket": "fir-auth-internship.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841770358596:android:82823dabafbee93b6de911",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnurYAprgi4iogC_7S6F2tCnNeykg-LZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
